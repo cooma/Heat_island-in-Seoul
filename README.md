@@ -37,7 +37,8 @@ Analysis Heat_island in Seoul
 	시계열 분석 :  열섬 시계열적 분포 확인, 
 
 분석 : 분석 
-       	Season Dummy variable - Data set.1
+       	
+	Season Dummy variable - Data set.1
 	
 	Decompose	- Data set.2
 	
