@@ -1,4 +1,4 @@
-# Heat_island-in-Seoul
+# Heat_island - in Seoul
 Analysis Heat_island in Seoul 
 
 빅데이터 청년인재 프로젝트
@@ -36,6 +36,19 @@ Analysis Heat_island in Seoul
 	
 	시계열 분석 :  열섬 시계열적 분포 확인, 
 
-분석 : 분석과정
+분석 : 분석 
+       	Season Dummy variable - Data set.1
 	
+	Decompose	- Data set.2
 	
+	Data set1, set2 각 각 분석 툴 사용
+	
+	-Logistic Regression
+	
+	-ANN
+	
+	-Random Forest
+	
+	-SVM
+	
+	-XG boost
