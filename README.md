@@ -20,7 +20,7 @@ Analysis Heat_island in Seoul
 	     
 	     3. 대기오염: 서울시 대기오염   www.airkorea.or.kr
 
-분석 :
+분석 : 사전작업
 
 	서울시 온도 - 경기도 온도 >= 3℃  : 열섬이 일어난 것으로 간주 label = 1
 	
@@ -36,4 +36,6 @@ Analysis Heat_island in Seoul
 	
 	시계열 분석 :  열섬 시계열적 분포 확인, 
 
-		
+분석 : 분석과정
+	
+	
