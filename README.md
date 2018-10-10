@@ -27,6 +27,8 @@ Analysis Heat_island in Seoul
 	서울시 온도 - 경기도 온도 < 3℃  : 열섬이 일어나지 않은 것으로 간주 label = 0
 
 	Season 값 부여 -> 계절에 따른 고정효과 분석	
+	
+	data 정규화
 
 분석 : EDA 
 
