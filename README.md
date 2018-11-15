@@ -44,7 +44,7 @@ Analysis Heat_island in Seoul
 	
 	Decompose	- Data set.2
 	
-	Data set1, set2 각 각 분석 툴 사용
+	Data set1, set2 각각 분석 툴 사용
 	
 	-Logistic Regression
 	
